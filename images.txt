@@ -1,3 +1,1 @@
-xprobe/xinference:latest
-getmeili/meilisearch:v1.9
-cr.weaviate.io/semitechnologies/weaviate:1.25.11
+cr.weaviate.io/semitechnologies/weaviate:1.26.1
