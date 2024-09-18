@@ -1,1 +1,1 @@
-cr.weaviate.io/semitechnologies/weaviate:1.26.1
+python:3.10-bullseye
