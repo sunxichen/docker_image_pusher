@@ -1,1 +1,1 @@
-python:3.10-bullseye
+xprobe/xinference:nightly-main
